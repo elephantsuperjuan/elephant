@@ -3,6 +3,8 @@ layout: post
 title:  "项超娟-Chaojuan Xiang 个人简历"
 date:   2015-08-22 23:54:20
 categories: 个人资料
+image: ![](file:../img/resume.png) 
+image: http://i1.wp.com/wptavern.com/wp-content/uploads/2014/12/jekyll.png
 ---
 #### **求职意向：web前端开发**
 
@@ -112,8 +114,8 @@ Xie Jiang, Xiang Chaojuan, Zhou Zhonghua, et al. “NetCompare: A visualization 
 
 ##### **熟练使用**
 
-- 开发语言：php,C++,Javascript
-- Web开发：PHP(CodeIgniter)
+- 开发语言：php,C++,Javascript,Python
+- Web开发：PHP(CodeIgniter),D3.js
 - 前端框架：Bootstrap/FrozenUI
 - 前端工具：Less/Grunt
 - 数据库相关：MySQL
@@ -123,7 +125,7 @@ Xie Jiang, Xiang Chaojuan, Zhou Zhonghua, et al. “NetCompare: A visualization 
 
 - Web开发：JavaEE
 - 前端框架：AngularJS/Sea.js
-- 数据库相关：SQL server/DB2
+- 数据库相关：SQL server/DB2/MongoDB/Neo4j
 
 ---
 
