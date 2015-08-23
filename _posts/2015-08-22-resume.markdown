@@ -82,7 +82,7 @@ Xie Jiang, Xiang Chaojuan, Zhou Zhonghua, et al. “NetCompare: A visualization 
  * 收获：学习PHP(CodeIgniter框架)，同时，了解了关于上大云平台的工作机理。网站链接：http://ccds.shu.edu.cn/shucloud/
 
 
-##### **2013年06月 ~ 2013年08月  “数据密集型与科学发现”(国际会议)网站建设 项目负责人**
+###### **2013年06月 ~ 2013年08月  “数据密集型与科学发现”(国际会议)网站建设 项目负责人**
 
  * 职责：负责整个网站的搭建及信息发布，包括及时展示会议的信息、住宿预定。  
  * 收获：网站使用了JavaEE的整体框架，及时更新信息，达到了宣传和展示的效果。同时，其作为自己第一个作品虽然很艰辛且不完美，但是很快乐。网站链接：http://hpca.shu.edu.cn/disd2013/
@@ -91,7 +91,7 @@ Xie Jiang, Xiang Chaojuan, Zhou Zhonghua, et al. “NetCompare: A visualization 
 
 ### 实习经历
 
-##### **2015年7月 ~ 至今  海通证券信息技术部**
+###### **2015年7月 ~ 至今  海通证券信息技术部**
 
  * 职责：参与融资融券业务相关技术开发及功能测试。  
  * 收获：了解了关于证券行业的相关业务背景，特别是融资融券方面；另外主要涉及数据库C编程，了解到外键、索引、执行计划相关的使用及其作用。
@@ -100,7 +100,7 @@ Xie Jiang, Xiang Chaojuan, Zhou Zhonghua, et al. “NetCompare: A visualization 
  
 ### 其他项目经历 
 
-##### **2014年10月 ~ 2014年12月  参与”微网站”的建设 web前端开发**
+###### **2014年10月 ~ 2014年12月  参与”微网站”的建设 web前端开发**
 
  * 职责：负责与客户沟通，前端页面实施两部分。  
  * 收获：微信的发展直接促进了目前企业用微信作为媒介进行宣传的模式。在该项目中将以往网站的经验应用于手机端，并对web前端开发有了新的认识。并在之后开始主要学习web前端开发技术，如Javascript, CSS, bootstrap, Jquery, 并正在学习sea.js框架，angularJS,同时开始关注前端技术及其发展，如Node.js, MEAN框架。
