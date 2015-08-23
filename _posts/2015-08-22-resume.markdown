@@ -49,16 +49,16 @@ C++、python、数据可视化分析
 ---
 
 ### 科研经历
-> #### 网络可视化分析   
+##### 网络可视化分析   
  - 主要内容：以网络比对为主要研究背景，关注蛋白质相互作用网络关系，利用网络可视化技术对网络进行分析。并参与组会讨论，主要是关于数据分析、高性能计算等。   
  - 主要技术：图数据库，层次聚类，D3.js，web开发   
  - 发表论文：已正式发表3篇，并已投稿2篇。  
     
-> 1. 2015年7月 IEEE/ACM Transactions on Computational Biology and Bioinformatics (SCI检索，第二作者，导师第一)    
+1. 2015年7月 IEEE/ACM Transactions on Computational Biology and Bioinformatics (SCI检索，第二作者，导师第一)    
 Xie Jiang, Xiang Chaojuan, Ma Jin, et al, “An Adaptive Hybrid Algorithm for Global Network Alignment", Computational Biology and Bioinformatics, IEEE/ACM Transactions on , vol.PP, no.99, pp.1,1    
-> 2. 2015年4月 IET system biology （SCI检索，负责部分实验）     
+2. 2015年4月 IET system biology （SCI检索，负责部分实验）     
 Xie Jiang, Zhou Zhonghua, Ma Jin, Xiang, Chaojuan, Nie Qing, & Zhang Wu. (2015). “Graphics processing unit-based alignment of protein interaction networks”. IET Systems Biology.       
-> 3. 2014年4月  国际会议论文 （EI检索，第二作者，导师第一）     
+3. 2014年4月  国际会议论文 （EI检索，第二作者，导师第一）     
 Xie Jiang, Xiang Chaojuan, Zhou Zhonghua, et al. “NetCompare: A visualization tool for network alignment on Galaxy”[C]//Information Science, Electronics and Electrical Engineering (ISEEE), 2014 International Conference on. IEEE, 2014, 2: 881-8984. 
    
 ---
