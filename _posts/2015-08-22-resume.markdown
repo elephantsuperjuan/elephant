@@ -4,7 +4,6 @@ title:  "项超娟-Chaojuan Xiang 个人简历"
 date:   2015-08-22 23:54:20
 categories: 个人资料
 image: ![](file:../img/resume.png) 
-image: http://i1.wp.com/wptavern.com/wp-content/uploads/2014/12/jekyll.png
 ---
 #### **求职意向：web前端开发**
 
