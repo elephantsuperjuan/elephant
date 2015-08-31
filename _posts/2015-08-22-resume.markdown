@@ -28,10 +28,11 @@ image: 'img/resume.png'
 C++、python、数据可视化分析
  - 主要项目：
 
-	|| **作品名** || **网址** ||
-	|| 欣动传媒 || http://s-93497.abc188.com/index.php ||
-	|| 上海大学云平台 || http://ccds.shu.edu.cn/shucloud/ ||
-	|| 国际会议（DISD 2013） || http://hpca.shu.edu.cn/disd2013/ ||
+	|| **作品名** || **网址** || **角色** ||
+	|| 模特个人微平台 || http://lingli.170cm.cn || 大部分前端工作 ||
+	|| 欣动传媒 || http://s-93497.abc188.com/index.php || 大部分前端工作 ||
+	|| 上海大学云平台 || http://ccds.shu.edu.cn/shucloud/ || 主要负责人 ||
+	|| 国际会议（DISD 2013） || http://hpca.shu.edu.cn/disd2013/ || 主要负责人 ||
 
 ---
 
