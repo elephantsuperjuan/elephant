@@ -1,10 +1,11 @@
 
 ### 阅读清单-前端
  - [webpack中文](#webpack) [http://webpackdoc.com/development.html](http://webpackdoc.com/development.html) 【2016-06-16】
- - react native  http://reactnative.cn/
- - angularJS 2.0  http://www.angular.live/docs/ts/latest/
+ - [react native](#react_native)  [http://reactnative.cn/](http://reactnative.cn/)
+ - [angularJS 2.0](#angularjs_2.0)  [http://www.angular.live/docs/ts/latest/](http://www.angular.live/docs/ts/latest/)
 
 <span id="webpack">webpack</span>
+ 
  #### webpack 模块打包器
 
     $ npm install webpack -g
@@ -30,3 +31,19 @@
         "style-loader": "^0.13.0",
         "webpack": "^1.12.2"
       }
+
+
+<span id="react_native">react native</span>
+
+###react native 
+
+
+
+
+
+<span id="angularjs_2.0">angularJS 2.0</span>
+
+### angularJS 2.0
+
+
+
