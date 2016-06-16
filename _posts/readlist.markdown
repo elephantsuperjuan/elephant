@@ -13,24 +13,24 @@
     # 安装 webpack 依赖
     $ npm install webpack --save-dev
 
-    $ # 查看 webpack 版本信息
+    # 查看 webpack 版本信息
     $ npm info webpack
-    $ 安装指定版本的 webpack
+    # 安装指定版本的 webpack
     $ npm install webpack@1.12.x --save-dev
 
-    $ 需要使用 Webpack 开发工具，要单独安装：
+    # 需要使用 Webpack 开发工具，要单独安装：
     $ npm install webpack-dev-server --save-dev
 
-    $ 安装 loader：
+    # 安装 loader：
     $ npm install css-loader style-loader
 
-    $ 配置package.json
+    // 配置package.json
       "devDependencies": {
         "css-loader": "^0.21.0",
         "style-loader": "^0.13.0",
         "webpack": "^1.12.2"
       }
-    $ webpack.config.js
+    // webpack.config.js
     module.exports = {
         entry: './js/activity.js',
         output: {
@@ -43,10 +43,10 @@
             ]
         }
      };
-     $ // 载入 css
+     // 载入 css
      require("!style!css!../css/activity.css")
      
-     $ webpack打包
+     # webpack打包
      $ webpack
 
 <h2 id="react_native">react native</h2>
