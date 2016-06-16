@@ -4,9 +4,8 @@
  - [react native](#react_native)  [http://reactnative.cn/](http://reactnative.cn/)
  - [angularJS 2.0](#angularjs_2.0)  [http://www.angular.live/docs/ts/latest/](http://www.angular.live/docs/ts/latest/)
 
-<span id="webpack">webpack</span>
- 
- #### webpack 模块打包器
+<h2 id="webpack">webpack</h2>
+### webpack 模块打包器
 
     $ npm install webpack -g
     # 进入项目目录
@@ -31,9 +30,26 @@
         "style-loader": "^0.13.0",
         "webpack": "^1.12.2"
       }
+    $ webpack.config.js
+    module.exports = {
+        entry: './js/activity.js',
+        output: {
+            path: './bin',
+            filename: 'app.bundle.js'
+        },
+        module: {
+            loaders: [
+                { test: /\.\/css$/, loader: "style!css" }
+            ]
+        }
+     };
+     $ // 载入 css
+     require("!style!css!../css/activity.css")
+     
+     $ webpack打包
+     $ webpack
 
-
-<span id="react_native">react native</span>
+<h2 id="react_native">react native</h2>
 
 ###react native 
 
@@ -41,7 +57,7 @@
 
 
 
-<span id="angularjs_2.0">angularJS 2.0</span>
+<h2 id="angularjs_2.0">angularJS 2.0</h2>
 
 ### angularJS 2.0
 
