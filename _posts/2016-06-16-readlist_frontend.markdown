@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "阅读清单-前端"
+date:   2016-06-16 16:00:20
+categories: 技术贴
+image: 'img/html5.jpg'
+---
 
 ### 阅读清单-前端
  - [webpack中文](#webpack) [http://webpackdoc.com/development.html](http://webpackdoc.com/development.html) 【2016-06-16】
