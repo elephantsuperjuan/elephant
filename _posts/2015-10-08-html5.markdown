@@ -14,6 +14,6 @@ image: 'img/html5.jpg'
 
 ### 总结
 
-##### 语义标签  
- - ‘<header>, <footer>，<nav>，<section>，<aside>’等，使得阅读者更加容易去访问内容。   
+##### 语义标签 
+---‘<header>, <footer>，<nav>，<section>，<aside>’等，使得阅读者更加容易去访问内容。   
 ---
