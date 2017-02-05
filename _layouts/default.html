@@ -1,31 +1,19 @@
 <!DOCTYPE html>
 <html>
+
   {% include head.html %}
 
-  <body>
+  <body class="index">
 
-    <!-- Start Layout -->
-    {% if site.header_type == 'drawer' %}
-    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header mdl-layout--fixed-drawer">
-      {% include header_fixed.html %}
-    {% else %}
-    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
-      {% include header.html %}
+    {% include header.html %}
+    {% include docs_header.html %}
+    {% if page.title %}
+      {% include banner.html %}
     {% endif %}
 
-      <main class="mdl-layout__content">
-        {{ content }}
-        {% include footer.html %}
-      </main>
+    {{ content }}
+    
+    {% include footer.html %}
 
-    </div>
-    <!-- /End Layout-->
-
-    <!-- Material Design Lite js Library -->
-    <script type="text/javascript" src="{{ "/js/material.min.js" | prepend: site.baseurl }}"></script>
-    {% if site.pagination_type == 'ops' %}
-    <script rel="javascript" src="{{ "/js/site.js" | prepend: site.baseurl }}"></script>
-    {% endif %}
   </body>
-
 </html>
