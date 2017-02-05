@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "html5的优势"
+date:   2015-10-08 16:47:20
+categories: 技术贴
+image: 'img/html5.jpg'
+---
+#### **HTML5的优势笔记** 
+
+### 起因
+腾讯面试时问到这个问题，没有详细了解   
+1. 对前端的影响   
+2. 对编程的影响   
+
+### 总结
+
+##### 语义标签 
+---‘<header>, <footer>，<nav>，<section>，<aside>’等，使得阅读者更加容易去访问内容。   
+---
