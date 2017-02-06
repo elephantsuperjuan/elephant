@@ -10,8 +10,6 @@ categories: document
 tag: 教程
 ---
 
-## 微信二次转发经验分享
-
 ### 1. 背景	
 分享到微信可以调用webview自带的分享功能，集成了微信sdk；但是再次转发时，当前页面并没有集成微信sdk的功能，为此，结合微信转发和分享的默认配置，设置再次转发时的默认title和默认图标。
 
@@ -28,7 +26,7 @@ tag: 教程
 > ### tip1: ios的标题使用document.title = "标题"，并不会起作用，以下可解决。 
 
 	function mySetTitle(title) {
-		document.title = title;
+	    document.title = title;  
 	
 	    if($rootScope.os.iphone && $rootScope.os.weixin){
 	        var i = document.createElement('iframe');
