@@ -2,5 +2,6 @@ _site/
 .sass-cache/
 
 .idea
+.idea/
 .idea/*
 

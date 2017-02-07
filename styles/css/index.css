@@ -6420,6 +6420,11 @@ hr {
   border: none;
   border-radius: 0 0 4px 4px;
 }
+@media screen and (max-width: 470px) {
+  .docs-content {
+    padding: 1px 15px 10px 15px;
+  }
+}
 .docs-content .container-fluid {
   padding: 0;
 }
