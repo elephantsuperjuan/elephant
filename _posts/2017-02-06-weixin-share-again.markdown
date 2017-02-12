@@ -45,7 +45,7 @@ tag: 教程
 
 	// template添加默认图标	
 	<div style='display:none'>
-		<img id='wx_logo' src="{{share.wxImg}}" />
+		<img id='wx_logo' src="\{\{share.wxImg}}" />
 	</div>
 
 	// 预加载该图标
