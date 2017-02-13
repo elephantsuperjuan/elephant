@@ -15,7 +15,7 @@ angular使用bootstrap的原生分页与ng-table的区别，
 
 1. 需要自己生成分页的数组
 2. 不能排序
-3. 代码清晰些
+3. 使用ng-table代码更清晰些
 
 ### 2. 关键字
 angular ng-table $q.defer
@@ -24,7 +24,8 @@ angular ng-table $q.defer
 1. 尝试用全局的 var defer = $q.defer来解决，结果点击页数时，只能请求两次，再点就没有调用后台接口了；
 2. 需要每次新建defer对象
 
-	  	module.exports = function ($scope, $filter, NgTableParams, CONFIG, API, rest, $q) {
+
+	  		module.exports = function ($scope, $filter, NgTableParams, CONFIG, API, rest, $q) {
 	
 		    'use strict';
 		    var vm = this;
