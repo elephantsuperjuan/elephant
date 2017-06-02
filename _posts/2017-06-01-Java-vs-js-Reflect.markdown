@@ -8,6 +8,7 @@ categories: 阅读心得
 * wiki：在计算机科学中，反射是指计算机程序在运行时（Run time）可以访问、检测和修改它本身状态或行为的一种能力。用比喻来说，那种程序能够“观察”并且修改自己的行为。
 * 百度百科：反射，一种计算机处理方式。是程序可以访问、检测和修改它本身状态或行为的一种能力。
 * 能够分析类能力的程序成为反射 [java核心技术卷I][2]
+
 ### 语言场景
 * Javascript
 	* 反射的概念比较强的语言像java和go。因为他们都是静态语言。缺乏很多动态特性。他们是只有通过一大堆api才能反射。所以才会有比较强反射的概念。
@@ -15,6 +16,7 @@ categories: 阅读心得
 * [Java的反射中一些重要的方法][1]
 	* JAVA反射机制是在运行状态中，对于任意一个类，都能够知道这个类的所有属性和方法；对于任意一个对象，都能够调用它的任意一个方法和属性；这种动态获取的信息以及动态调用对象的方法的功能称为java语言的反射机制。
 	* Java中有个Object 类，是所有Java 类的继承根源，其内声明了数个应该在所有Java 类中被改写的方法：hashCode()、equals()、clone()、toString()、getClass()等。其中getClass()返回一个Class对象。Class对象十分特殊。他是Java中所有类的实例，借助它可以实现对一个对象的操作。
+	
 ### 实现方式
 * javascript实现方法-关键词
 	* js中eval的使用可以达到java反射的效果——对应于java，通过类名forName能够调用任意方法。
@@ -26,8 +28,10 @@ categories: 阅读心得
 	* Method有一个invoke方法，它允许调用包装在method对象中的方法，反射机制允许你调用任意方法。
 	* class类，通过*.getClass()获得，或Class.forName("java.util.Date")
 	* Class类中的getFields、getMethods、getConstructors、getDeclaredFields、getDeclaredMethods、getDeclaredContructors将返回类中声明的域、方法和构造器。
+	
 ### 总结
 > 所以看了这么多，感觉ES6把js与java对反射的实现机制统一起来了呢；但是对于这种改进，功过自有人评说，不做详解。反射也就这么回事。
+
 
 > [1]: https://segmentfault.com/a/1190000004326040 "Java的反射中一些重要的方法"
 > [2]: java核心技术卷I，第9版 "java core I"
