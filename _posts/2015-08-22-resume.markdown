@@ -1,17 +1,16 @@
 ---
 layout: post
-title:  "项超娟-Chaojuan Xiang 个人简历"
+title:  "Chaojuan Xiang 个人简历"
 date:   2015-08-22 23:54:20
 categories: 个人资料
 image: 'img/resume.png'
 ---
+
 #### **求职意向：web前端开发** 
 
 ### 联系方式
-- 手机：15201932925 
 - Email：chaojuanxiang@126.com 
 - 通讯地址：上海市宝山区上大路99号计算机楼
-
 ---
 
 ### 个人信息
